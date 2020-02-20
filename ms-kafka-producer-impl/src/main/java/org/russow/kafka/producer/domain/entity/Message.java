@@ -1,4 +1,4 @@
-package org.russow.kafka.domain.entity;
+package org.russow.kafka.producer.domain.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

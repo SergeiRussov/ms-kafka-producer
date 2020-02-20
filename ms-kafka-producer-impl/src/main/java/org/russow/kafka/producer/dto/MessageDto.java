@@ -1,4 +1,4 @@
-package org.russow.kafka.dto;
+package org.russow.kafka.producer.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
